@@ -45,7 +45,7 @@ Assetto Corsa (CSP Lua app)                         SimHub (C# plugin)
 
 ## Install
 
-### Option A — download (recommended, no build needed)
+### Download
 
 Grab both assets from the [latest release](../../releases/latest).
 
@@ -65,11 +65,6 @@ Grab both assets from the [latest release](../../releases/latest).
    Windows marks downloaded DLLs as untrusted and SimHub will silently refuse to load them.
 3. Copy the DLL next to `SimHub.exe` (default `C:\Program Files (x86)\SimHub`).
 4. Start SimHub → it asks about the new plugin → enable it → restart SimHub.
-
-### Option B — build from source
-
-See [`simhub-plugin/README.md`](simhub-plugin/README.md). The in-game half is plain Lua —
-copy `ingame-exporter/` to `apps/lua/vrc_fa26_telemetry/`, nothing to build.
 
 ## Checking it works
 
