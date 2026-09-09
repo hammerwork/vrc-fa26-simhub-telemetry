@@ -142,4 +142,9 @@ Modding Team.
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+Public domain — [CC0 1.0](LICENSE). No rights reserved: use it, change it, ship it, sell it,
+fork it without asking. No attribution required, though a link back is always welcome.
+
+The dedication covers this tooling only. It grants no rights to the VRC Formula Alpha™ 2026
+mod itself — you still need to own the car — and "VRC" and "Formula Alpha" remain the VRC
+Modding Team's trademarks.
